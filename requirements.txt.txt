@@ -1,0 +1,9 @@
+pandas
+requests
+nltk
+plotly
+matplotlib
+wordcloud
+pycountry
+dash
+feedparser
