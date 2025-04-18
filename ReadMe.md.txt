@@ -4,7 +4,7 @@ A real-time sentiment tracker using global news headlines.
 
 ## Features
 
-- Pulls top headlines from GNews API for multiple countries
+- Pulls top headlines from RSS Feeds for multiple countries
 - Analyzes sentiment using VADER
 - Displays a world sentiment map and word cloud
 
@@ -15,13 +15,12 @@ A real-time sentiment tracker using global news headlines.
     ```bash
     pip install -r requirements.txt
     ```
-3. Add your GNews API key in `main.py`
 4. Run the project:
     ```bash
-    python main.py
+    python dashboard.py
     ```
 
 ## Output
 
-- Opens a browser with an interactive sentiment map
+- Open this link in browser: http://127.0.0.1:8050/
 - Displays a word cloud of recent headlines
