@@ -21,5 +21,5 @@ A real-time sentiment tracker using global news headlines.
 
 ## Output
 
-- Open this link in browser: http://127.0.0.1:8050/
+-After running the code, open this link in browser: http://127.0.0.1:8050/ to see the output
 - Displays a word cloud of recent headlines
